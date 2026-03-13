@@ -1,0 +1,8 @@
+
+*.cmd
+*.ko
+*.mod
+hid-playstation-headset.mod.c
+*.o
+modules.order
+Module.symvers
